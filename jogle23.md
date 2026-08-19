@@ -1,10 +1,15 @@
 # ABOUT ME
 ## Introduction 
 **NAME:** James Ogle
+
 **Preferred Name:** Alex
+
 **NetID:** `jogle23`
+
 **Github Username:** `jaogl04`
+
 **Major:** Computer Science
+
 **Year:** Senior
 ## Experience
 - Currently working on creating  custom graph convolutional network for a material discovery project
